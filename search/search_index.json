@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Junior undergraduate student at \nUNIST\n, majoring in CSE(Computer Science & Engineering).\n\n\n\n\nAvailable Languages\n\n\n\n\nEnglish\n : Business-level conversation available\n\n\n\n\nTOEIC\n score: 920/990 (Valid until Jan. 08, 2019)\n\n\nTEPS\n score: 689/990 (Valid until Nov. 10, 2019)\n\n\n\n\nChinese\n : Low-level conversation available\n\n\n\n\nHSK level 3\n score: 276/300 (Valid until Feb. 21, 2018)\n\n\n\n\n\n\nExperiences\n\n\n\n\nInternship\n at \nNECSST\n, UNIST. (2016.03 ~ 2017.02)\n\n\n\n\nAwards\n\n\n\n\nExcellence award\n in 2017 Korea Supercomputing Challenge(KSC2017)\n\n\n\n\nAwarded by the president of KSCSE(Korean Society for Computational Science and Engineering).\n\n\n\n\nAcademic performance scholarship\n since 2015.03 - Now",
+            "text": "Junior undergraduate student at \nUNIST\n, majoring in CSE(Computer Science & Engineering).\n\n\n\n\nAvailable Languages\n\n\n\n\nEnglish\n : Business-level conversation available\n\n\n\n\nTOEIC\n score: 920/990 (Valid until Jan. 08, 2019)\n\n\nTEPS\n score: 689/990 (Valid until Nov. 10, 2019)\n\n\n\n\nChinese\n : Low-level conversation available\n\n\n\n\nHSK level 3\n score: 276/300 (Valid until Feb. 21, 2018)\n\n\n\n\n\n\nExperiences\n\n\n\n\nInternship\n at \nNECSST Lab.\n, UNIST. (2016.03 ~ 2017.02)\n\n\n\n\nAwards\n\n\n\n\nExcellence award\n in \n2017 Korea Supercomputing Challenge\n\n\n\n\nAwarded by the president of KSCSE(Korean Society for Computational Science and Engineering).\n\n\n\n\nSemester academic excellence award\n for 2017 Spring semester\n\n\n\n\nSemester GPA 3.92 / 4.30\n\n\n\n\nAcademic performance scholarship\n since 2015.03 - Now",
             "title": "Home"
         },
         {
@@ -26,9 +26,9 @@
             "title": "Experiences"
         },
         {
-            "location": "/#internship-at-necsst-unist-201603-201702",
+            "location": "/#internship-at-necsst-lab-unist-201603-201702",
             "text": "",
-            "title": "Internship at NECSST, UNIST. (2016.03 ~ 2017.02)"
+            "title": "Internship at NECSST Lab., UNIST. (2016.03 ~ 2017.02)"
         },
         {
             "location": "/#awards",
@@ -36,9 +36,14 @@
             "title": "Awards"
         },
         {
-            "location": "/#excellence-award-in-2017-korea-supercomputing-challengeksc2017",
+            "location": "/#excellence-award-in-2017-korea-supercomputing-challenge",
             "text": "Awarded by the president of KSCSE(Korean Society for Computational Science and Engineering).",
-            "title": "Excellence award in 2017 Korea Supercomputing Challenge(KSC2017)"
+            "title": "Excellence award in 2017 Korea Supercomputing Challenge"
+        },
+        {
+            "location": "/#semester-academic-excellence-award-for-2017-spring-semester",
+            "text": "Semester GPA 3.92 / 4.30",
+            "title": "Semester academic excellence award for 2017 Spring semester"
         },
         {
             "location": "/#academic-performance-scholarship-since-201503-now",
