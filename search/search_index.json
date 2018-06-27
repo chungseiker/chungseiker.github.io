@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Junior undergraduate student at \nUNIST\n, majoring in CSE(Computer Science & Engineering).\n\nCurrently, I am an undergraduate intern at \niVADER lab\n.\n\nIf you are interested, please e-mail me. (\nseiker@unist.ac.kr\n)\n\n\n\n\nAvailable Languages\n\n\n\n\nEnglish\n : Business-level conversation available\n\n\n\n\nTOEIC\n score: 920/990 (Valid until Jan. 08, 2019)\n\n\nTEPS\n score: 714/990 (Valid until Dec. 03, 2019)\n\n\n\n\nChinese\n : Low-level conversation available\n\n\n\n\nHSK level 3\n score: 276/300\n (Invalidated since Feb. 21, 2018)\n\n\n\n\n\n\nExperiences\n\n\n\n\nInternship\n at \nNECSST Lab.\n, UNIST. (Sep. 2016 - Aug. 2017)\n\n\nInternship\n at \niVADER Lab.\n, UNIST. (Jan. 2018 - Now)\n\n\n\n\nAwards\n\n\n\n\nExcellence award\n in \n2017 Korea Supercomputing Challenge\n\n\n\n\nAwarded by the president of KSCSE(Korean Society for Computational Science and Engineering).\n\n\n\n\nSemester academic excellence award\n for 2017 Spring semester\n\n\n\n\nSemester GPA 3.92 / 4.30\n\n\n\n\nAcademic performance scholarship\n since Mar. 2015 - Now",
+            "text": "Junior undergraduate student at \nUNIST\n, majoring in CSE(Computer Science & Engineering).\n\nCurrently, I am an undergraduate intern at \niVADER lab\n.\n\nIf you are interested, please e-mail me. (\nseiker@unist.ac.kr\n)\n\n\n\n\nAvailable Languages\n\n\n\n\nEnglish\n : Business-level conversation available\n\n\n\n\nTOEIC\n score: 920/990 (Valid until Jan. 08, 2019)\n\n\nTEPS\n score: 714/990 (Valid until Dec. 03, 2019)\n\n\n\n\nChinese\n : Low-level conversation available\n\n\n\n\nHSK level 3\n score: 276/300\n (Invalidated since Feb. 21, 2018)\n\n\n\n\n\n\nExperiences\n\n\n\n\nInternship\n at \nNECSST Lab.\n, UNIST.\n\n\n\n\nPeriod: Sep. 2016 - Aug. 2017\n\n\n\n\nInternship\n at \niVADER Lab.\n, UNIST.\n\n\n\n\nPeriod: Jan. 2018 - Now\n\n\n\n\nDomestic Exchange Student\n to \nSNU\n, South Korea.\n\n\n\n\nPeriod: 2016 Summer semester (Jun. 2016 - Aug. 2016), 2016 Winter semester (Dec. 2016 - Feb. 2017)\n\n\n\n\nInternational Exchange Student\n to \nHKUST\n, Hong Kong.\n\n\n\n\nPeriod: 2018 Summer semester (Jun. 2018 - Now)\n\n\n\n\n\n\nAwards\n\n\n\n\nExcellence award\n in \n2017 Korea Supercomputing Challenge\n\n\n\n\nAwarded by the president of KSCSE(Korean Society for Computational Science and Engineering).\n\n\n\n\nSemester academic excellence award\n for 2017 Spring semester\n\n\n\n\nSemester GPA 3.92 / 4.30\n\n\n\n\nSemester academic excellence award\n for 2018 Spring semester\n\n\n\n\nSemester GPA 4.10 / 4.30\n\n\n\n\nAcademic performance scholarship\n since Mar. 2015 - Now",
             "title": "Home"
         },
         {
@@ -26,14 +26,24 @@
             "title": "Experiences"
         },
         {
-            "location": "/#internship-at-necsst-lab-unist-sep-2016-aug-2017",
-            "text": "",
-            "title": "Internship at NECSST Lab., UNIST. (Sep. 2016 - Aug. 2017)"
+            "location": "/#internship-at-necsst-lab-unist",
+            "text": "Period: Sep. 2016 - Aug. 2017",
+            "title": "Internship at NECSST Lab., UNIST."
         },
         {
-            "location": "/#internship-at-ivader-lab-unist-jan-2018-now",
-            "text": "",
-            "title": "Internship at iVADER Lab., UNIST. (Jan. 2018 - Now)"
+            "location": "/#internship-at-ivader-lab-unist",
+            "text": "Period: Jan. 2018 - Now",
+            "title": "Internship at iVADER Lab., UNIST."
+        },
+        {
+            "location": "/#domestic-exchange-student-to-snu-south-korea",
+            "text": "Period: 2016 Summer semester (Jun. 2016 - Aug. 2016), 2016 Winter semester (Dec. 2016 - Feb. 2017)",
+            "title": "Domestic Exchange Student to SNU, South Korea."
+        },
+        {
+            "location": "/#international-exchange-student-to-hkust-hong-kong",
+            "text": "Period: 2018 Summer semester (Jun. 2018 - Now)",
+            "title": "International Exchange Student to HKUST, Hong Kong."
         },
         {
             "location": "/#awards",
@@ -49,6 +59,11 @@
             "location": "/#semester-academic-excellence-award-for-2017-spring-semester",
             "text": "Semester GPA 3.92 / 4.30",
             "title": "Semester academic excellence award for 2017 Spring semester"
+        },
+        {
+            "location": "/#semester-academic-excellence-award-for-2018-spring-semester",
+            "text": "Semester GPA 4.10 / 4.30",
+            "title": "Semester academic excellence award for 2018 Spring semester"
         },
         {
             "location": "/#academic-performance-scholarship-since-mar-2015-now",
