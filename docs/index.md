@@ -6,11 +6,11 @@ disable_toc: True
 	<br />Photo taken on Jun. 2nd, 2021.
 </div>
 <p>
-	Hello, I am Sanghoon Kim, currently working for [Lunit Inc.](https://www.lunit.io/en) as a Web front-end engineer.
+	Hello, I am Sanghoon Kim, currently working for <a href="https://www.lunit.io/en">Lunit Inc.</a> as a Web front-end engineer.
 </p>
 <p>
 	My e-mail address is: seiker (AT) kaist.ac.kr <br />
-	Here is my CV: [CV_sanghoon.pdf](/CV_sanghoon.pdf) (last updated Jun. 2021, written in Korean)
+	Here is my CV: <a href="/CV_sanghoon.pdf">CV_sanghoon.pdf</a> (last updated Jun. 2021, written in Korean)
 </p>
 
 <br />
