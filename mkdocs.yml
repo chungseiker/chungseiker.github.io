@@ -1,0 +1,9 @@
+site_name: Sanghoon Kim
+theme: cinder
+copyright: 2017-2021 Sanghoon Kim
+google_analytics: ['UA-92730995-2', 'seiker.kr']
+nav:
+    - Home: index.md
+    - My Postings: https://blog.seiker.kr
+markdown_extensions:
+    - pymdownx.tilde:
