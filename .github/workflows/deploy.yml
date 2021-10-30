@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Deploy website
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+
+      - name: Build and deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: seiker.kr
+          CONFIG_FILE: mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
