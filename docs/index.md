@@ -10,7 +10,7 @@ disable_toc: True
 </p>
 <p>
 	My e-mail address is: seiker (AT) kaist.ac.kr <br />
-	Here is my CV: <a href="/CV_sanghoon.pdf">CV_sanghoon.pdf</a> (last updated Jun. 2021, written in Korean)
+	Here is my CV: <a href="/CV_202205.pdf">CV_202205.pdf</a> (last updated Apr. 2022)
 </p>
 
 <br />
@@ -42,6 +42,8 @@ disable_toc: True
 ###Publications
 ----------
 ####**International Conferences**
+- C. Lee, S. Park, H. Song, J. U. Ryu, <U>S. Kim</U>, H. Kim, S. Pereira, and D. Yoo, "Interactive Multi-Class Tiny-Object Detection," CVPR '22.
+- <U>S. Kim</U> and I.-Y. Ko, "A Conversational Approach for Modifying Service Mashups in IoT Environments," CHI '22.
 - C. Lee, <U>S. Kim</U>, D. Han, H. Yang, Y. Park, B. C. Kwon and S. Ko, "GUIComp: Design and Evaluation of Mobile GUI Design Assistant with Real-Time, Multi-Faceted Feedback," CHI '20.
 
 ####**Domestic Conferences**
@@ -97,6 +99,9 @@ Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델�
 
 ###Awards
 ----------
+####**Gary Marsden Travel Awards (GMTA) 2022**
+- Awarded $2,655 of travel support by the [ACM SIGCHI](https://sigchi.org/) for the CHI '22 participation.
+
 ####**Academic Performance Scholarship** from Mar. 2015 to Aug. 2019
 - Full-tuition scholarship with monthly stipend of KRW 160,000 (about $160).
 
