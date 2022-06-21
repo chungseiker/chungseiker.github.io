@@ -17,21 +17,23 @@ disable_toc: True
 
 ###Work Experience
 ----------
-####Web Front-End Engineer, Lunit Inc.
+####**Web Front-End Engineer**, Lunit Inc.
 - _Aug. 2021 - Present_
 - Developing an annotation tool for pathologists to better-annotate cancer cells and tissues from large-scale slide images, thus improving cancer prediction quality of artificial intelligence models.
-
+    - Improved the rendering performance of the annotation tool up to 4.2x faster with optimizing Redux action dispatches and custom hooks ([Blog article](https://blog.seiker.kr/react-component-rerendering-optimization/)).
+	- Migrated the default bundler of the annotation tool from create-react-app to Vite.js, resulting in up to 2x faster production bundling performance ([Blog article](https://blog.seiker.kr/vite-migration-from-create-react-app/)).
 <br />
 
 ###Education
 ----------
-####Korea Advanced Institute of Science and Technology (KAIST)
+####**Korea Advanced Institute of Science and Technology (KAIST)**
 - _Sep. 2019 - Aug. 2021_
 - M.Sc. in Computer Science, advised by [Prof. In-Young Ko](https://bigbear.kaist.ac.kr/~iko/)
+    - Thesis: [A Conversational Service Mashup Model to Support End-User Service Mashup in IoT Environments](https://koasas.kaist.ac.kr/handle/10203/296091)
 - Scholarship supported by Korean government with monthly stipend of at least KRW 800,000 (about $700)
 - Total GPA 4.05 / 4.3
 
-####Ulsan National Institute of Science and Technology (UNIST)
+####**Ulsan National Institute of Science and Technology (UNIST)**
 - _Mar. 2015 - Aug. 2019_
 - B.Sc. _magna cum laude_ in Electrical and Computer Engineering
 - Majored in Computer Science and Engineering, and minored in Management Engineering
@@ -42,22 +44,22 @@ disable_toc: True
 ###Publications
 ----------
 ####**International Conferences**
-- C. Lee, S. Park, H. Song, J. U. Ryu, <U>S. Kim</U>, H. Kim, S. Pereira, and D. Yoo, "Interactive Multi-Class Tiny-Object Detection," CVPR '22.
-- <U>S. Kim</U> and I.-Y. Ko, "A Conversational Approach for Modifying Service Mashups in IoT Environments," CHI '22.
-- C. Lee, <U>S. Kim</U>, D. Han, H. Yang, Y. Park, B. C. Kwon and S. Ko, "GUIComp: Design and Evaluation of Mobile GUI Design Assistant with Real-Time, Multi-Faceted Feedback," CHI '20.
+- C. Lee, S. Park, H. Song, J. U. Ryu, <U>**S. Kim**</U>, H. Kim, S. Pereira, and D. Yoo, "[Interactive Multi-Class Tiny-Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf)," CVPR '22.
+- <U>**S. Kim**</U> and I.-Y. Ko, "[A Conversational Approach for Modifying Service Mashups in IoT Environments](https://dl.acm.org/doi/pdf/10.1145/3491102.3517655)," CHI '22.
+- C. Lee, <U>**S. Kim**</U>, D. Han, H. Yang, Y. Park, B. C. Kwon and S. Ko, "[GUIComp: Design and Evaluation of Mobile GUI Design Assistant with Real-Time, Multi-Faceted Feedback](https://arxiv.org/pdf/2001.05684.pdf)," CHI '20.
 
 ####**Domestic Conferences**
-- K.D. Baek, <U>S. Kim</U>, and I.-Y. Ko, "Development of Platform-independent IoT Service Framework for Solving Heterogeneity Problem (이종성 문제 해결을 위한 플랫폼 독립적인 IoT 서비스 프레임워크)," KSC2020.
-- <U>S. Kim</U> and I.-Y. Ko, "Conversational Services Composition Model to Support End-User Services Composition in IoT Environments (IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델)," KCC2020 *[Best Paper Award]*.
-- <U>S. Kim</U> and I.-Y. Ko, "Precondition and Goal State Assertion for Improving the Reliability of Trigger-Action Based Service Mashup (트리거-액션 기반 서비스 매쉬업의 신뢰도를 개선하기 위한 전제 상태 및 목표 상태 검증 방법)," KCSE 2020 Short.
+- K.D. Baek, <U>**S. Kim**</U>, and I.-Y. Ko, "Development of Platform-independent IoT Service Framework for Solving Heterogeneity Problem (이종성 문제 해결을 위한 플랫폼 독립적인 IoT 서비스 프레임워크)," KSC2020.
+- <U>**S. Kim**</U> and I.-Y. Ko, "Conversational Services Composition Model to Support End-User Services Composition in IoT Environments (IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델)," KCC2020 *[Best Paper Award]*.
+- <U>**S. Kim**</U> and I.-Y. Ko, "Precondition and Goal State Assertion for Improving the Reliability of Trigger-Action Based Service Mashup (트리거-액션 기반 서비스 매쉬업의 신뢰도를 개선하기 위한 전제 상태 및 목표 상태 검증 방법)," KCSE 2020 Short.
 
 ####**Domestic Journals**
-- <U>S. Kim</U> and I.-Y. Ko, "A User-Centric Conversational Service Mashup
+- <U>**S. Kim**</U> and I.-Y. Ko, "A User-Centric Conversational Service Mashup
 Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델과 엔진)," Journal of KIISE, 48(5), pp. 584-594, May 2021.
 
 ####**Posters**
-- K. Kim, <U>S. Kim</U>, C. Lee and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster
-- Y. Han, C. Lee, <U>S. Kim</U> and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster
+- K. Kim, <U>**S. Kim**</U>, C. Lee and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster
+- Y. Han, C. Lee, <U>**S. Kim**</U> and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster
 
 <br />
 
@@ -72,6 +74,20 @@ Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델�
 - _Sep. 2016 - Aug. 2017_
 - Studied briefly about Linux kernel, distributed computer & storage systems, and flash memory & FTL (Flash Translation Layer).
 
+<br />
+
+###Open Source Software Contributions
+----------
+####**[OpenSeadragon](https://github.com/openseadragon/openseadragon)**
+- Fix getLevelScale to use image dimensions ([#2059](https://github.com/openseadragon/openseadragon/pull/2059))
+- Fix #2065 and add setMaxLevel for #2059 ([#2066](https://github.com/openseadragon/openseadragon/pull/2066))
+
+####**[Lunit Frontend Components](https://github.com/lunit-io/frontend-components)**
+The project has been moved to [osd-react-renderer](https://github.com/lunit-io/osd-react-renderer).
+
+- Fix a bug where changing the url of a tiledImage caused a crash ([#151](https://github.com/lunit-io/frontend-components/pull/151))
+- Added support for custom tileSource ([#148](https://github.com/lunit-io/frontend-components/pull/148))
+- Fix min / max zoom level is not applied ([#147](https://github.com/lunit-io/frontend-components/pull/147))
 <br />
 
 ###Other Experience
@@ -92,8 +108,6 @@ Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델�
 ####**Domestic Exchange Student** to [SNU](https://en.snu.ac.kr/), South Korea.
 - 2016 Summer semester (_Jun. 2016 - Aug. 2016_)
 - 2016 Winter semester (_Dec. 2016 - Feb. 2017_)
-
-
 
 <br />
 
