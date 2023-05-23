@@ -2,7 +2,7 @@ site_name: Sanghoon Kim
 theme:
     name: null
     custom_dir: 'cinder/'
-copyright: 2017-2021 Sanghoon Kim
+copyright: 2017-2023 Sanghoon Kim
 google_analytics: ['UA-92730995-2', 'seiker.kr']
 nav:
     - Home: index.md
