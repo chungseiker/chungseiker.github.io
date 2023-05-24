@@ -21,8 +21,19 @@ disable_toc: True
 - _Aug. 2021 - Present_
 - Working as a TRP (Technical Research Personnel) for fulfilling military service.
 - Developing an annotation tool and a back office console for pathologists to better-annotate cancer cells and tissues from large-scale slide images, thus improving cancer prediction quality of artificial intelligence models.
-  	- Improved the rendering performance of the annotation tool up to 4.2x faster with optimizing Redux action dispatches and custom hooks ([Blog article](https://blog.seiker.kr/react-component-rerendering-optimization/)).
+
+	**2021 Work Highlights**
+
+	- Improved the rendering performance of the annotation tool up to 4.2x faster with optimizing Redux action dispatches and custom hooks ([Blog article](https://blog.seiker.kr/react-component-rerendering-optimization/)).
 	- Migrated the default bundler of the annotation tool from create-react-app to Vite.js, resulting in up to 2x faster production bundling performance ([Blog article](https://blog.seiker.kr/vite-migration-from-create-react-app/)).
+
+	<p></p>
+
+	**2022 Work Highlights**
+
+	- Improved the manageability and reliability of the back office console by updating legacy dependencies, such as Material UI v4 to v5, applying ESLint rules, and resolving 250+ errors and warnings from the rules.
+	- Integrate Sentry and Elastic APM for tracking issues and exceptions on the annotation tool and the console.
+	- Wrote and significantly improved tens of documentation and references for the applications, ranging from project management to module references, postmortems, technical reports, and onboarding documents.
 
 <br />
 
