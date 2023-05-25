@@ -83,6 +83,10 @@ Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델�
 - K. Kim, <U>**S. Kim**</U>, C. Lee, and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster.
 - Y. Han, C. Lee, <U>**S. Kim**</U>, and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster.
 
+####**Patents**
+- An Implicature-Based Interaction Model to Modify Automation Rules in IoT Environments. Korea Patent No. 10-2429334, Aug. 01, 2022 (고인영, 김상훈. IoT 환경에서 자동화 규칙을 수정하기 위한 함축 기반 상호작용 모델. 등록번호 10-2429334).
+- Conversational Services Composition Model to Support End-User Services Composition in IoT Environments. Korea Patent No. 10-2395122, May 02, 2022 (고인영, 김상훈. IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델. 등록번호: 10-2395122).
+
 <br />
 
 ###Research Experience
