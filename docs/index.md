@@ -50,7 +50,7 @@ disable_toc: True
 
 ####**Korea Advanced Institute of Science and Technology (KAIST)**
 - _Sep. 2019 - Aug. 2021_
-- M.Sc. in Computer Science, advised by [Prof. In-Young Ko](https://bigbear.kaist.ac.kr/~iko/)
+- M.Sc. in Computer Science, advised by [Prof. In-Young Ko](https://webeng.kaist.ac.kr/professor/)
     - Thesis: [A Conversational Service Mashup Model to Support End-User Service Mashup in IoT Environments](https://koasas.kaist.ac.kr/handle/10203/296091)
 - Scholarship supported by Korean government with monthly stipend of at least KRW 800,000 (about $800)
 - Total GPA 4.05 / 4.3
@@ -72,7 +72,7 @@ disable_toc: True
 
 ####**Domestic Conferences**
 - K.D. Baek, <U>**S. Kim**</U>, and I.-Y. Ko, "Development of Platform-independent IoT Service Framework for Solving Heterogeneity Problem (이종성 문제 해결을 위한 플랫폼 독립적인 IoT 서비스 프레임워크)," KSC2020.
-- <U>**S. Kim**</U> and I.-Y. Ko, "Conversational Services Composition Model to Support End-User Services Composition in IoT Environments (IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델)," KCC2020 *[Best Paper Award]*.
+- <U>**S. Kim**</U> and I.-Y. Ko, "Conversational Services Composition Model to Support End-User Services Composition in IoT Environments (IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델)," KCC2020. **[Best Paper Award]**
 - <U>**S. Kim**</U> and I.-Y. Ko, "Precondition and Goal State Assertion for Improving the Reliability of Trigger-Action Based Service Mashup (트리거-액션 기반 서비스 매쉬업의 신뢰도를 개선하기 위한 전제 상태 및 목표 상태 검증 방법)," KCSE 2020 Short.
 
 ####**Domestic Journals**
@@ -80,14 +80,15 @@ disable_toc: True
 Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델과 엔진)," Journal of KIISE, 48(5), pp. 584-594, May 2021.
 
 ####**Posters**
-- K. Kim, <U>**S. Kim**</U>, C. Lee, and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster
-- Y. Han, C. Lee, <U>**S. Kim**</U>, and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster
+- K. Kim, <U>**S. Kim**</U>, C. Lee, and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster.
+- Y. Han, C. Lee, <U>**S. Kim**</U>, and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster.
 
 <br />
 
 ###Research Experience
 ----------
 ####**Paper Reviewer**
+- ACM CHI 2023, Late-Breaking Work (LBW) Track
 - PACM IMWUT 2021 (UbiComp 2021)
 
 ####**Internship** at [iVADER Lab.](http://ivaderlab.unist.ac.kr), UNIST (Advisor: Prof. Sungahn Ko)
@@ -118,21 +119,19 @@ The project has been moved to [osd-react-renderer](https://github.com/lunit-io/o
 
 ###Other Experience
 ----------
-####**Invited Talk**, Dept. of Computer Science and Engineering, UNIST.
+####**Invited Talk**, Dept. of Computer Science and Engineering, UNIST
 - _Mar 31st, 2023_
 - Presented a career talk titled "[Between Research and Development: Web Frontend Development by Technical Research Personnel](/files/2023-unist-talk.pdf)"
 
-####**Teaching Assistant**, Data Structure (CS206), KAIST.
-- 2020 Spring semester (_Mar. 2020 - Jun. 2020_) *[Best TA Award]*
+####**Teaching Assistant**, School of Computing, KAIST
+- Introduction to Services Computing (CS459), 2020 Fall (_Sep. 2020 - Dec. 2020_). **[Best TA Award]**
+- Data Structure (CS206), 2020 Spring (_Mar. 2020 - Jun. 2020_). **[Best TA Award]**
+- Introduction to Services Computing (CS459), 2019 Fall (_Sep. 2019 - Dec. 2019_).
 
-####**Teaching Assistant**, Introduction to Services Computing (CS459), KAIST.
-- 2019 Fall semester (_Sep. 2019 - Dec. 2019_)
-- 2020 Fall semester (_Sep. 2020 - Dec. 2020_) *[Best TA Award]*
-
-####**International Exchange Student** to [HKUST](https://www.ust.hk/), Hong Kong.
+####**International Exchange Student** to [HKUST](https://www.ust.hk/), Hong Kong
 - 2018 Summer semester (_Jun. 2018 - Aug. 2018_)
 
-####**Domestic Exchange Student** to [SNU](https://en.snu.ac.kr/), South Korea.
+####**Domestic Exchange Student** to [Seoul National University](https://en.snu.ac.kr/), South Korea
 - 2016 Summer semester (_Jun. 2016 - Aug. 2016_)
 - 2016 Winter semester (_Dec. 2016 - Feb. 2017_)
 
@@ -155,6 +154,6 @@ The project has been moved to [osd-react-renderer](https://github.com/lunit-io/o
 - _Nov. 23rd, 2018 - Nov. 24th, 2018_
 - Awarded by LikeLion foundation with KRW 1,000,000 (about $1,000) in prize.
 
-####**Excellence Award (6th)** in [2017 Korea Supercomputing Challenge](https://webedu.ksc.re.kr/index.es?sid=a3)
+####**Excellence Award (6th)** in [2017 Korea Supercomputing Challenge](http://hpcschool.kr/ksc2017/)
 - _Jul. 27th, 2017 - Jul. 28th, 2017_
 - Awarded by the president of KSCSE (Korean Society for Computational Science and Engineering).
