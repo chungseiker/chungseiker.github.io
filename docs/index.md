@@ -39,6 +39,15 @@ disable_toc: True
 
 ###Education
 ----------
+####**Google Machine Learning Bootcamp 2022**
+- _Jun. 2022 - Oct. 2022_
+- Learned development techniques in the field of deep learning utilizing TensorFlow and PyTorch.
+- Earned the following credentials with the support of the [Google Developers Group](https://gdg.community.dev/):
+	- [TensorFlow Developer Certificate](https://www.credential.net/4b1502d2-5f33-487d-bef4-cbff39cea70e) (expires Aug. 2025)
+	- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TG977XACMAYV)
+	- [Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/E3XYC9VL6BSR)
+	- [Machine Learning Engineering for Production](https://www.coursera.org/account/accomplishments/specialization/certificate/FK95UUAJDLEE)
+
 ####**Korea Advanced Institute of Science and Technology (KAIST)**
 - _Sep. 2019 - Aug. 2021_
 - M.Sc. in Computer Science, advised by [Prof. In-Young Ko](https://bigbear.kaist.ac.kr/~iko/)
