@@ -10,7 +10,7 @@ disable_toc: True
 </p>
 <p>
 	My e-mail address is: seiker (AT) kaist.ac.kr <br />
-	Here is my CV: <a href="/files/CV_202205.pdf">CV_202205.pdf</a> (last updated Apr. 2022)
+	Here is my CV: <a href="/files/CV_202306.pdf">CV_202306.pdf</a> (last updated May. 2023)
 </p>
 
 <br />
