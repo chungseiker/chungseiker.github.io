@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="shortcut icon" href="./img/favicon.ico">
+
+    
+    <title>Home - Sanghoon Kim</title>
+    
+
+    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/3.003/css/hack.min.css">
+    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="./css/base.min.css" rel="stylesheet">
+    <link href="./css/cinder.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/highlight.min.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.28/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8XG3Q1RGE7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-8XG3Q1RGE7');
+    </script>
+    
+
+     
+</head>
+
+<body class="homepage" >
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+
+            <a class="navbar-brand" href=".">Sanghoon Kim</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li class="active">
+                        <a href=".">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="https://blog.seiker.kr">My Postings</a>
+                    </li>
+                
+                
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                            <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        
+        <div class="col-md-12" role="main">
+
+<h1 id="hello-world">Hello world!</h1>
+<div style="text-align: center; margin-bottom: 1em;">
+    <img src="/img/sanghoon-photo.jpg" style="width: 360px; max-width: 90%;">
+    <br />Photo taken on Jun. 2nd, 2021.
+</div>
+<p>
+    Hello, I am Sanghoon Kim, currently working for <a href="https://www.lunit.io/en">Lunit Inc.</a> as a Web front-end engineer.
+</p>
+<p>
+    My e-mail address is: seiker (AT) kaist.ac.kr <br />
+    Here is my CV: <a href="files/CV_202306.pdf">CV_202306.pdf</a> (last updated May. 2023)
+</p>
+
+<p><br /></p>
+<h3 id="work-experience">Work Experience</h3>
+<hr />
+<h4 id="web-front-end-engineer-lunit-inc"><strong>Web Front-End Engineer</strong>, Lunit Inc.</h4>
+<ul>
+<li><em>Aug. 2021 - Present</em></li>
+<li>Working as a TRP (Technical Research Personnel) for fulfilling military service.</li>
+<li>Developing an annotation tool and a back office console for pathologists to better-annotate cancer cells and tissues from large-scale slide images, thus improving cancer prediction quality of artificial intelligence models.</li>
+<li>Worked on the front-end development of the vision-language multimodal radiology solution, which was demonstrated on the 10th anniversary event. (<a href="https://news.mtn.co.kr/news-detail/2023082412072840551">News link</a>)</li>
+</ul>
+<p><strong>2021 Work Highlights</strong></p>
+<ul>
+<li>Improved the rendering performance of the annotation tool up to 4.2x faster with optimizing Redux action dispatches and custom hooks (<a href="https://blog.seiker.kr/react-component-rerendering-optimization/">Blog article</a>).</li>
+<li>Migrated the default bundler of the annotation tool from create-react-app to Vite.js, resulting in up to 2x faster production bundling performance (<a href="https://blog.seiker.kr/vite-migration-from-create-react-app/">Blog article</a>).</li>
+</ul>
+<p></p>
+
+<p><strong>2022 Work Highlights</strong></p>
+<ul>
+<li>Improved the manageability and reliability of the back office console by updating legacy dependencies, such as Material UI v4 to v5, applying ESLint rules, and resolving 250+ errors and warnings from the rules.</li>
+<li>Integrate Sentry and Elastic APM for tracking issues and exceptions on the annotation tool and the console.</li>
+<li>Wrote and significantly improved tens of documentation and references for the applications, ranging from project management to module references, postmortems, technical reports, and onboarding documents.</li>
+</ul>
+<p><br /></p>
+<h3 id="education">Education</h3>
+<hr />
+<h4 id="google-machine-learning-bootcamp-2022"><strong>Google Machine Learning Bootcamp 2022</strong></h4>
+<ul>
+<li><em>Jun. 2022 - Oct. 2022</em></li>
+<li>Learned development techniques in the field of deep learning utilizing TensorFlow and PyTorch.</li>
+<li>Earned the following credentials with the support of the <a href="https://gdg.community.dev/">Google Developers Group</a>:</li>
+<li><a href="https://www.credential.net/4b1502d2-5f33-487d-bef4-cbff39cea70e">TensorFlow Developer Certificate</a> (expires Aug. 2025)</li>
+<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/TG977XACMAYV">Deep Learning Specialization</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/E3XYC9VL6BSR">Natural Language Processing Specialization</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FK95UUAJDLEE">Machine Learning Engineering for Production</a></li>
+</ul>
+<h4 id="korea-advanced-institute-of-science-and-technology-kaist"><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong></h4>
+<ul>
+<li><em>Sep. 2019 - Aug. 2021</em></li>
+<li>M.Sc. in Computer Science, advised by <a href="https://webeng.kaist.ac.kr/professor/">Prof. In-Young Ko</a></li>
+<li>Thesis: <a href="https://koasas.kaist.ac.kr/handle/10203/296091">A Conversational Service Mashup Model to Support End-User Service Mashup in IoT Environments</a></li>
+<li>Scholarship supported by Korean government with monthly stipend of at least KRW 800,000 (about $800)</li>
+<li>Total GPA 4.05 / 4.3</li>
+</ul>
+<h4 id="ulsan-national-institute-of-science-and-technology-unist"><strong>Ulsan National Institute of Science and Technology (UNIST)</strong></h4>
+<ul>
+<li><em>Mar. 2015 - Aug. 2019</em></li>
+<li>B.Sc. <em>magna cum laude</em> in Electrical and Computer Engineering</li>
+<li>Majored in Computer Science and Engineering, and minored in Management Engineering</li>
+<li>Total GPA 3.78 / 4.3, Major GPA 3.99 / 4.3</li>
+</ul>
+<p><br /></p>
+<h3 id="publications">Publications</h3>
+<hr />
+<h4 id="international-conferences"><strong>International Conferences</strong></h4>
+<ul>
+<li>C. Lee, S. Park, H. Song, J. U. Ryu, <U><strong>S. Kim</strong></U>, H. Kim, S. Pereira, and D. Yoo, "<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf">Interactive Multi-Class Tiny-Object Detection</a>," CVPR '22.</li>
+<li><U><strong>S. Kim</strong></U> and I.-Y. Ko, "<a href="https://dl.acm.org/doi/pdf/10.1145/3491102.3517655">A Conversational Approach for Modifying Service Mashups in IoT Environments</a>," CHI '22.</li>
+<li>C. Lee, <U><strong>S. Kim</strong></U>, D. Han, H. Yang, Y. Park, B. C. Kwon, and S. Ko, "<a href="https://arxiv.org/pdf/2001.05684.pdf">GUIComp: Design and Evaluation of Mobile GUI Design Assistant with Real-Time, Multi-Faceted Feedback</a>," CHI '20.</li>
+</ul>
+<h4 id="domestic-conferences"><strong>Domestic Conferences</strong></h4>
+<ul>
+<li>K.D. Baek, <U><strong>S. Kim</strong></U>, and I.-Y. Ko, "Development of Platform-independent IoT Service Framework for Solving Heterogeneity Problem (이종성 문제 해결을 위한 플랫폼 독립적인 IoT 서비스 프레임워크)," KSC2020.</li>
+<li><U><strong>S. Kim</strong></U> and I.-Y. Ko, "Conversational Services Composition Model to Support End-User Services Composition in IoT Environments (IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델)," KCC2020. <strong>[Best Paper Award]</strong></li>
+<li><U><strong>S. Kim</strong></U> and I.-Y. Ko, "Precondition and Goal State Assertion for Improving the Reliability of Trigger-Action Based Service Mashup (트리거-액션 기반 서비스 매쉬업의 신뢰도를 개선하기 위한 전제 상태 및 목표 상태 검증 방법)," KCSE 2020 Short.</li>
+</ul>
+<h4 id="domestic-journals"><strong>Domestic Journals</strong></h4>
+<ul>
+<li><U><strong>S. Kim</strong></U> and I.-Y. Ko, "A User-Centric Conversational Service Mashup
+  Model and Engine (사용자 중심의 대화형 IoT 서비스 매쉬업 모델과 엔진)," Journal of KIISE, 48(5), pp. 584-594, May 2021.</li>
+</ul>
+<h4 id="posters"><strong>Posters</strong></h4>
+<ul>
+<li>K. Kim, <U><strong>S. Kim</strong></U>, C. Lee, and S. Ko, Poster: Modeling Exploration/Exploitation Decisions through Mobile Sensing for Understanding Mechanisms of Addiction, MobiSys '19 Poster.</li>
+<li>Y. Han, C. Lee, <U><strong>S. Kim</strong></U>, and S. Ko, Poster: System Architecture for Progressive Augmented Reality, MobiSys '19 Poster.</li>
+</ul>
+<h4 id="patents"><strong>Patents</strong></h4>
+<ul>
+<li>An Implicature-Based Interaction Model to Modify Automation Rules in IoT Environments. Korea Patent No. 10-2429334, Aug. 01, 2022 (고인영, 김상훈. IoT 환경에서 자동화 규칙을 수정하기 위한 함축 기반 상호작용 모델. 등록번호 10-2429334).</li>
+<li>Conversational Services Composition Model to Support End-User Services Composition in IoT Environments. Korea Patent No. 10-2395122, May 02, 2022 (고인영, 김상훈. IoT 환경에서 최종 사용자 서비스 조합을 지원하기 위한 대화형 서비스 조합 모델. 등록번호: 10-2395122).</li>
+</ul>
+<p><br /></p>
+<h3 id="research-experience">Research Experience</h3>
+<hr />
+<h4 id="paper-reviewer"><strong>Paper Reviewer</strong></h4>
+<ul>
+<li>ACM CHI 2023, Late-Breaking Work (LBW) Track</li>
+<li>PACM IMWUT 2021 (UbiComp 2021)</li>
+</ul>
+<h4 id="internship-at-ivader-lab-unist-advisor-prof-sungahn-ko"><strong>Internship</strong> at <a href="http://ivaderlab.unist.ac.kr">iVADER Lab.</a>, UNIST (Advisor: Prof. Sungahn Ko)</h4>
+<ul>
+<li><em>Jan. 2018 - May 2019</em></li>
+<li>Participated in a project which helps developers to design and prototype mobile application in iterative process.</li>
+<li>Participated in a project which aims to help user's decision among multiple coordinated charts and visualizations.</li>
+</ul>
+<h4 id="internship-at-necsst-lab-unist-advisor-prof-sam-h-noh"><strong>Internship</strong> at <a href="http://next.unist.ac.kr">NECSST Lab.</a>, UNIST (Advisor: Prof. Sam H. Noh)</h4>
+<ul>
+<li><em>Sep. 2016 - Aug. 2017</em></li>
+<li>Studied briefly about Linux kernel, distributed computer &amp; storage systems, and flash memory &amp; FTL (Flash Translation Layer).</li>
+</ul>
+<p><br /></p>
+<h3 id="open-source-software-contributions">Open Source Software Contributions</h3>
+<hr />
+<h4 id="openseadragon"><strong><a href="https://github.com/openseadragon/openseadragon">OpenSeadragon</a></strong></h4>
+<ul>
+<li>Fix #2065 and add setMaxLevel for #2059 (<a href="https://github.com/openseadragon/openseadragon/pull/2066">#2066</a>)</li>
+<li>Fix getLevelScale to use image dimensions (<a href="https://github.com/openseadragon/openseadragon/pull/2059">#2059</a>)</li>
+</ul>
+<h4 id="lunit-frontend-components"><strong><a href="https://github.com/lunit-io/frontend-components">Lunit Frontend Components</a></strong></h4>
+<p>The project has been moved to <a href="https://github.com/lunit-io/osd-react-renderer">osd-react-renderer</a>.</p>
+<ul>
+<li>Fix a bug where changing the url of a tiledImage caused a crash (<a href="https://github.com/lunit-io/frontend-components/pull/151">#151</a>)</li>
+<li>Added support for custom tileSource (<a href="https://github.com/lunit-io/frontend-components/pull/148">#148</a>)</li>
+<li>Fix min / max zoom level is not applied (<a href="https://github.com/lunit-io/frontend-components/pull/147">#147</a>)</li>
+</ul>
+<p><br /></p>
+<h2 id="other-experience">###Other Experience</h2>
+<h4 id="invited-talk-dept-of-computer-science-and-engineering-unist"><strong>Invited Talk</strong>, Dept. of Computer Science and Engineering, UNIST</h4>
+<ul>
+<li><em>Mar 31st, 2023</em></li>
+<li>Presented a career talk titled "<a href="files/2023-unist-talk.pdf">Between Research and Development: Web Frontend Development by Technical Research Personnel</a>"</li>
+</ul>
+<h4 id="teaching-assistant-school-of-computing-kaist"><strong>Teaching Assistant</strong>, School of Computing, KAIST</h4>
+<ul>
+<li>Introduction to Services Computing (CS459), 2020 Fall (<em>Sep. 2020 - Dec. 2020</em>). <strong>[Best TA Award]</strong></li>
+<li>Data Structure (CS206), 2020 Spring (<em>Mar. 2020 - Jun. 2020</em>). <strong>[Best TA Award]</strong></li>
+<li>Introduction to Services Computing (CS459), 2019 Fall (<em>Sep. 2019 - Dec. 2019</em>).</li>
+</ul>
+<h4 id="international-exchange-student-to-hkust-hong-kong"><strong>International Exchange Student</strong> to <a href="https://www.ust.hk/">HKUST</a>, Hong Kong</h4>
+<ul>
+<li>2018 Summer semester (<em>Jun. 2018 - Aug. 2018</em>)</li>
+</ul>
+<h4 id="domestic-exchange-student-to-seoul-national-university-south-korea"><strong>Domestic Exchange Student</strong> to <a href="https://en.snu.ac.kr/">Seoul National University</a>, South Korea</h4>
+<ul>
+<li>2016 Summer semester (<em>Jun. 2016 - Aug. 2016</em>)</li>
+<li>2016 Winter semester (<em>Dec. 2016 - Feb. 2017</em>)</li>
+</ul>
+<p><br /></p>
+<h3 id="awards">Awards</h3>
+<hr />
+<h4 id="gary-marsden-travel-awards-gmta-2022"><strong>Gary Marsden Travel Awards (GMTA) 2022</strong></h4>
+<ul>
+<li>Awarded $2,655 of travel support by <a href="https://sigchi.org/">ACM SIGCHI</a> for the CHI '22 attendance.</li>
+</ul>
+<h4 id="academic-performance-scholarship-from-mar-2015-to-aug-2019"><strong>Academic Performance Scholarship</strong> from Mar. 2015 to Aug. 2019</h4>
+<ul>
+<li>Full-tuition scholarship with monthly stipend of KRW 160,000 (about $160).</li>
+</ul>
+<h4 id="deans-list-for-three-times-unist"><strong>Dean's List</strong> for three times, UNIST</h4>
+<ul>
+<li>GPA from 2017 Spring: 3.92 / 4.3</li>
+<li>GPA from 2018 Spring: 4.10 / 4.3</li>
+<li>GPA from 2018 Fall: 4.05 / 4.3</li>
+</ul>
+<h4 id="excellence-award-3rd-in-unistnaver-d2sflikelion-hackathon"><strong>Excellence Award (3rd)</strong> in UNIST×NAVER D2SF×LikeLion Hackathon</h4>
+<ul>
+<li><em>Nov. 23rd, 2018 - Nov. 24th, 2018</em></li>
+<li>Awarded by LikeLion foundation with KRW 1,000,000 (about $1,000) in prize.</li>
+</ul>
+<h4 id="excellence-award-6th-in-2017-korea-supercomputing-challenge"><strong>Excellence Award (6th)</strong> in <a href="http://hpcschool.kr/ksc2017/">2017 Korea Supercomputing Challenge</a></h4>
+<ul>
+<li><em>Jul. 27th, 2017 - Jul. 28th, 2017</em></li>
+<li>Awarded by the president of KSCSE (Korean Society for Computational Science and Engineering).</li>
+</ul></div>
+        
+        
+    </div>
+
+    <footer class="col-md-12 text-center">
+        
+        <hr>
+        <p>
+        <small>2017-2023 Sanghoon Kim<br></small>
+        
+        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
+        
+        
+    </footer>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="./js/bootstrap-3.0.3.min.js"></script>
+    <script src="./js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '.';
+    </script>
+    <!-- <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script> -->
+    <script src="./js/base.js"></script>
+    <script src="search/main.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </body>
+
+</html>
+
+<!--
+MkDocs version : 1.5.2
+Build Date UTC : 2023-09-01 05:26:52.960641+00:00
+-->
