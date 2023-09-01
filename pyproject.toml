@@ -5,7 +5,7 @@ description = "Website of Sanghoon Kim"
 authors = ["Sanghoon Kim <20144277+kim-sanghoon@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 mkdocs = "^1.5.2"
 pymdown-extensions = "^10.2.1"
 
