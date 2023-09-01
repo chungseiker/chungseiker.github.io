@@ -25,6 +25,7 @@ disable_toc: True
 - _Aug. 2021 - Present_
 - Working as a TRP (Technical Research Personnel) for fulfilling military service.
 - Developing an annotation tool and a back office console for pathologists to better-annotate cancer cells and tissues from large-scale slide images, thus improving cancer prediction quality of artificial intelligence models.
+- Worked on the front-end development of the vision-language multimodal radiology solution, which was demonstrated on the 10th anniversary event. ([News link](https://news.mtn.co.kr/news-detail/2023082412072840551))
 
   **2021 Work Highlights**
 
