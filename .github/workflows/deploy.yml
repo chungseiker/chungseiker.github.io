@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Configure Poetry
         uses: snok/install-poetry@v1
@@ -23,7 +23,7 @@ jobs:
           virtualenvs-in-project: true
 
       - name: Set up cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         id: cached-poetry-dependencies
         with:
           path: .venv
@@ -33,6 +33,9 @@ jobs:
         run: poetry install
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
 
+      - name: Export to requirements.txt
+        run: pip freeze > requirements.txt
+
       - name: Build and deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
         env:
@@ -40,3 +43,4 @@ jobs:
           CUSTOM_DOMAIN: seiker.kr
           CONFIG_FILE: mkdocs.yml
           EXTRA_PACKAGES: build-base
+          REQUIREMENTS: requirements.txt
